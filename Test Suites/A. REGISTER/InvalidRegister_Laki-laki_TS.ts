@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>InvalidRegister_Laki-laki_TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>364d7010-a028-48a0-b757-70ad61e130a5</testSuiteGuid>
+   <testCaseLink>
+      <guid>02a86581-a830-44b1-8e9d-45eb64ff7ee8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A. Register/InvalidRegister_Laki-laki</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3376d9f3-1049-4e57-bca3-64fb439eb06e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register/Register_Laki-laki</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama_Lengkap</value>
+         <variableId>1eda5a3f-893c-4e3b-ae2b-6342d6111f6c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal_Lahir</value>
+         <variableId>31ceda5f-c41f-4350-9911-d3b43478409c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jenis_Kelamin</value>
+         <variableId>804c86d0-27ac-40cc-a443-d1f31f351592</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_Hp</value>
+         <variableId>3e844aae-8c20-4762-97b8-89559b9028c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>466b61d3-6b5c-4fd1-a7b8-0e5712943931</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3376d9f3-1049-4e57-bca3-64fb439eb06e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>76db1246-1921-4257-a539-160b4a39afcb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Daftar Akun Sekarang</name>
+   <tag></tag>
+   <elementGuidId>7e7e4075-1d08-4aae-84c5-dd1042a1b826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn--gray.btn--gray-outlined.h7--xxsmall.text-capitalize.my-5.v-btn.v-btn--block.v-btn--has-bg.v-btn--rounded.v-btn--router.theme--light.v-size--default > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f036633-666e-48b2-af55-eaba0af081b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>eeedac04-7a40-433a-a069-437fa602ab53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Akun Sekarang</value>
+      <webElementGuid>3e9ad7af-7bdf-4e5c-aab6-51e4cb6b04f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/section[@class=&quot;d-flex justify-space-between&quot;]/div[@class=&quot;section--left d-flex justify-center overflow-y-auto py-10&quot;]/div[@class=&quot;d-flex justify-space-between flex-column pa-4&quot;]/div[1]/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[2]/a[@class=&quot;btn--gray btn--gray-outlined h7--xxsmall text-capitalize my-5 v-btn v-btn--block v-btn--has-bg v-btn--rounded v-btn--router theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>f25a217f-d1cb-4778-aa50-a49c1f23f416</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/a/span</value>
+      <webElementGuid>c2857bca-0ca7-4c9e-aab5-188a860c5a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::span[1]</value>
+      <webElementGuid>612cf331-fa45-4a77-92a9-96eef6e2f335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[2]</value>
+      <webElementGuid>3f88795d-7c82-46a4-a6cd-4d369d2ae5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>b5674cd2-2478-4329-bf9d-93e6263d1c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar Akun Sekarang' or . = 'Daftar Akun Sekarang')]</value>
+      <webElementGuid>56e498ef-fdc9-4a4e-85d1-79833cd114c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

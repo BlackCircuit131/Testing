@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register_Perempuan</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>925c06b2-2dba-48d0-b5e0-3092a4296f90</testSuiteGuid>
+   <testCaseLink>
+      <guid>3977e206-724a-4d33-bea4-3ab1bd167904</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A. Register/ValidRegister_Perempuan</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>08ac714f-0ab1-4e25-b9f7-9dfad80be823</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register/Register_Perempuan</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama_Lengkap</value>
+         <variableId>56e129c1-f268-4b33-8162-11c6854e090e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal_Lahir</value>
+         <variableId>f319b4ce-d016-443e-84ee-0914a2e75b74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jenis_Kelamin</value>
+         <variableId>b9066c4f-3843-456d-9b28-bb121d584e15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_Hp</value>
+         <variableId>6a0447f8-818b-40d3-9500-3c50505be298</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>fb97a75e-afb8-49fe-b872-f041f0d6a758</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08ac714f-0ab1-4e25-b9f7-9dfad80be823</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a28f7d08-00ae-4778-b4c2-4540a5bb9c13</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

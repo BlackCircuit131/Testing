@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sayaMenyetujui</name>
+   <tag></tag>
+   <elementGuidId>b6205808-8f71-4907-8d20-7a5d8ad45e43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div[1]/main/div/section/div[1]/div/div[1]/div/div[2]/div/form/div[8]/div/div/div[1]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input--selection-controls__ripple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>32eba7c3-50a5-465d-a2a1-78b3ad888cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input--selection-controls__ripple</value>
+      <webElementGuid>6e029f1b-fc18-45f9-bc5d-86209e996ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/section[@class=&quot;d-flex justify-space-between&quot;]/div[@class=&quot;section--left d-flex justify-center overflow-y-auto py-10&quot;]/div[@class=&quot;d-flex justify-space-between flex-column pa-4&quot;]/div[1]/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[2]/div[@class=&quot;section__form-content&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;d-flex align-center text--default mt-3 mb-2&quot;]/div[@class=&quot;v-input theme--light v-input--selection-controls v-input--checkbox&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
+      <webElementGuid>07d942ce-c1c2-4c30-a345-3f8f6d9eb990</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/form/div[8]/div/div/div/div/div</value>
+      <webElementGuid>1b7b78d0-bde3-450a-ae8f-e4ac95338a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::div[12]</value>
+      <webElementGuid>abc57843-2ea0-4366-a88d-6d395a3ed677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[6]/following::div[22]</value>
+      <webElementGuid>ca1c6bab-705b-492c-bbcd-3e66a5132f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::div[3]</value>
+      <webElementGuid>4bf6acd3-037a-411c-8245-a9b0c43ffea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/div</value>
+      <webElementGuid>d9e7eea9-c3cd-4e52-bfac-5fd3b408a5cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

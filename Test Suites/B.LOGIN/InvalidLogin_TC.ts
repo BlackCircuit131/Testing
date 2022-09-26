@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>InvalidLogin_TC</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ee90a566-24bf-4572-a34b-1701b0a731e7</testSuiteGuid>
+   <testCaseLink>
+      <guid>e36f9fcf-6326-4922-a9b9-ddeb68577beb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/B. LOGIN/InvalidLogin_TC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>83550ff5-afbb-41ac-a62b-d1bcdb886005</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login/Invalid/InvalidLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>83550ff5-afbb-41ac-a62b-d1bcdb886005</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>a3a93044-d002-46e7-ad8f-12c8eaa1f249</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>83550ff5-afbb-41ac-a62b-d1bcdb886005</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>7dd6ec24-2038-4ce9-85cf-d4d4fd5bdf9c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

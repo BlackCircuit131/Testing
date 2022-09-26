@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidLogin_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42ab7388-2aab-409d-9eb5-5ba7a0570341</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>530f6c93-7c93-41f1-bb0b-33f679f69e65</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67fd6720-6508-4055-9133-62aa50da783b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Login/Valid/ValidLogin').getValue('email', row)</defaultValue>
+      <description></description>
+      <id>530f6c93-7c93-41f1-bb0b-33f679f69e65</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login/Valid/ValidLogin').getValue('password', row)</defaultValue>
+      <description></description>
+      <id>67fd6720-6508-4055-9133-62aa50da783b</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+</TestCaseEntity>

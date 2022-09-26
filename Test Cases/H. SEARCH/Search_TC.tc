@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cba507e-397b-46bb-b9e3-9262c9d99b83</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c632d55-e783-4ab2-bc8b-aa8ac7e459cb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hybrid'</defaultValue>
+      <description></description>
+      <id>2c632d55-e783-4ab2-bc8b-aa8ac7e459cb</id>
+      <masked>false</masked>
+      <name>dataSearch</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register_Laki-laki</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>015c7fdc-cce5-4a17-924d-f1d24b0b7e6b</testSuiteGuid>
+   <testCaseLink>
+      <guid>878b770c-022c-44c2-8dd5-5c2bb6bee0f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A. Register/ValidRegister_Laki-laki</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>af04cdaa-cbc8-43bd-a5a7-e41428254348</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register/Register_Laki-laki</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama_Lengkap</value>
+         <variableId>56e129c1-f268-4b33-8162-11c6854e090e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal_Lahir</value>
+         <variableId>f319b4ce-d016-443e-84ee-0914a2e75b74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jenis_Kelamin</value>
+         <variableId>b9066c4f-3843-456d-9b28-bb121d584e15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_Hp</value>
+         <variableId>6a0447f8-818b-40d3-9500-3c50505be298</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>fb97a75e-afb8-49fe-b872-f041f0d6a758</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af04cdaa-cbc8-43bd-a5a7-e41428254348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a28f7d08-00ae-4778-b4c2-4540a5bb9c13</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
